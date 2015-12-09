@@ -4,7 +4,7 @@
 //
 //  Created by Emre Cakir on 12/5/15.
 //  Copyright © 2015 Coding Empire. All rights reserved.
-//
+// 
 
 import UIKit
 import SafariServices
